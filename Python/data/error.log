@@ -1,0 +1,9 @@
+2024-08-01 16:24:16 ERROR 
+ NoneType: None
+
+2024-08-01 16:24:39 ERROR 
+ Traceback (most recent call last):
+  File "/var/folders/h4/7cr1cmpn7v5b3x20_9wz8m740000gn/T/ipykernel_2620/966902899.py", line 14, in <module>
+    int('bb')
+ValueError: invalid literal for int() with base 10: 'bb'
+
